@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "733919292312",
+    "firebase_url": "https://iotodevi-e806a.firebaseio.com",
+    "project_id": "iotodevi-e806a",
+    "storage_bucket": "iotodevi-e806a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733919292312:android:f6bd7c23f2f6d7d0aa99ed",
+        "android_client_info": {
+          "package_name": "com.esraunal.b171210086iotodevi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733919292312-gagcnreja4r682789j4db6n6s79r0mmr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCppwaUfbN-UycYXML7PsDJC1qw1bU6HhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733919292312-gagcnreja4r682789j4db6n6s79r0mmr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
